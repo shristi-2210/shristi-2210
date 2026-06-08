@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shristi Singh.
+- 👋 Hi, I’m Shristi Kumari.
 - 👀 I’m interested in Coding and learning new things.
 - 🌱 Professional Summary
 - Research Operations professional with 4+ years of experience in Market Research, Survey Programming, Data Validation, and Data Reporting. Skilled in SPSS, Excel, Sawtooth, WinCross, HTML, CSS, and JavaScript. Experienced in survey scripting, quality assurance, and data analysis. Passionate about learning new technologies, improving processes, and delivering accurate, data-driven solutions.

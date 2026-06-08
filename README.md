@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shristi Singh.
 - 👀 I’m interested in Coding and learning new things.
 - 🌱 Professional Summary
-- Executive Research Operations professional with 4 years and 4 months of expertise in managing and optimizing data-driven research processes. Proven ability to oversee daily operations, ensuring the timely and accurate delivery of high-quality research outputs. Skilled in data validation, preparation, and analysis using tools such as IBM SPSS, Sawtooth, and Power BI. Proficient in advanced Excel functions for detailed data processing and reporting. Adept at collaborating with cross-functional teams to meet project goals and drive organizational success. Committed to leveraging analytical skills and process improvement strategies to enhance operational efficiency and data accuracy.
+- Research Operations professional with 4+ years of experience in Market Research, Survey Programming, Data Validation, and Data Reporting. Skilled in SPSS, Excel, Sawtooth, WinCross, HTML, CSS, and JavaScript. Experienced in survey scripting, quality assurance, and data analysis. Passionate about learning new technologies, improving processes, and delivering accurate, data-driven solutions.
 - Key Highlights:-
 - Data Expertise: Extensive experience in data validation, preparation, and analysis with advanced proficiency in IBM SPSS and Sawtooth.
 - Advanced Reporting: Skilled in creating interactive and insightful dashboards using Power BI to support data-driven decision-making.
